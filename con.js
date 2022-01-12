@@ -1,5 +1,5 @@
 var img = document.createElement("img");
-img.src = "http://192.168.43.115/lala.png";
+img.src = "https://raw.githubusercontent.com/limkokhole/con/main/lala.jpeg";
 
 var div = document.getElementById("x");
 div.appendChild(img);
